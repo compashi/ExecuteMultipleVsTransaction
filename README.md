@@ -14,6 +14,7 @@ A connection string to your Dynamics 365 organization must be provided in the *A
 Both settings are per ExecuteMultiple & ExecuteTransaction run.
 
 *NumberOfBatches* - number of batches to run
+
 *RecordsPerBatch* - number of records to create per batch
 
 ### Sample output
